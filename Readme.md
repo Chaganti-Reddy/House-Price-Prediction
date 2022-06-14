@@ -40,15 +40,15 @@
 
 # :file_folder: Datasets
 
-# ℹ️ Source
+## ℹ️ Source
 
 This dataset is a modified version of the California Housing dataset available from [Luís Torgo&rsquo;s page](http://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) (University of Porto). Luís Torgo obtained it from the StatLib repository (which is closed now). The dataset may also be downloaded from StatLib mirrors.
 
 This dataset appeared in a 1997 paper titled <span class="underline">Sparse Spatial Autoregressions</span> by Pace, R. Kelley and Ronald Barry, published in the <span class="underline">Statistics and Probability Letters</span> journal. They built it using the 1990 California census data. It contains one row per census block group. A block group is the smallest geographical unit for which the U.S. Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people).
 
-# 📊 Data description
+## 📊 Data description
 
-## Head Values
+### Head Values
 
        longitude  latitude  housing_median_age  total_rooms  total_bedrooms  \
     0    -122.23     37.88                41.0        880.0           129.0
@@ -64,7 +64,7 @@ This dataset appeared in a 1997 paper titled <span class="underline">Sparse Spat
     3       558.0       219.0         5.6431            341300.0        NEAR BAY
     4       565.0       259.0         3.8462            342200.0        NEAR BAY
 
-## Data Info
+### Data Info
 
     <class 'pandas.core.frame.DataFrame'>
     RangeIndex: 20640 entries, 0 to 20639
@@ -85,7 +85,7 @@ This dataset appeared in a 1997 paper titled <span class="underline">Sparse Spat
     memory usage: 1.6+ MB
     None
 
-## Describing the data
+### Describing the data
 
               longitude      latitude  housing_median_age   total_rooms  \
     count  20640.000000  20640.000000        20640.000000  20640.000000
