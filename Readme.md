@@ -1,4 +1,4 @@
-<h1 align="center">House Price Prediction</h1>
+<h1 align="center">House Price Prediction</h1> 
 
 <div align= "center"><img src="images/1.jpeg" width="250" height="250"/>
   <h4>This is a project in which we are going to create a machine learning model to make a prediction of a district&rsquo;s median housing price.</h4>
