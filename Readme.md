@@ -154,7 +154,7 @@ The Code is written in Python 3.7. If you don&rsquo;t have Python installed you 
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Chaganti-Reddy/House-Price-Prediction.git
+git clone https://gitlab.com/chaganti-reddy1/House-Price-Prediction.git
 ```
 
 2. Change your directory to the cloned repo
@@ -229,4 +229,4 @@ Made with :heart:&nbsp; by [Chaganti Reddy](https://github.com/Chaganti-Reddy/)
 
 # :eyes: License
 
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/Face-Mask-Detector/blob/main/LICENSE)
+MIT © [Chaganti Reddy](https://gitlab.com/chaganti-reddy1/House-Price-Prediction/-/blob/main/LICENSE?ref_type=heads)
